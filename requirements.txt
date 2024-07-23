@@ -1,0 +1,7 @@
+fastapi
+fastapi-utils
+uvicorn
+firebase-admin
+requests
+pydantic
+taskipy

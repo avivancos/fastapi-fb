@@ -13,7 +13,13 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
+eggs/fastapi
+fastapi-utils
+uvicorn
+firebase-admin
+requests
+pydantic
+taskipy
 .eggs/
 lib/
 lib64/
